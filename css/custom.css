@@ -1,0 +1,87 @@
+.head {
+  /* The image used */
+  /*background-image: url("../assets/background.jpg");*/
+  /*background-image: url("../assets/background2.jpg");*/
+  /*background-image: url("../assets/background3.jpg");*/
+  background-image: url("../assets/background4.jpg");
+
+  /* Set a specific height */
+  height: 100vh;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#what{
+  /*background-color: black;*/
+}
+#flamerobin{
+  /*background-color: black;*/
+}
+#whatis {
+  text-align: center;
+  padding-top: 25vh;
+}
+#size {
+  font-size: 500%;
+  text-shadow: 2px 2px #000000;
+  color: orange;
+}
+#size2 {
+  padding-top: 5vh;
+  font-size: 300%;
+  text-shadow: 2px 2px #000000;
+  color: orange;
+}
+.highlight {
+  color: orange;
+  text-shadow: 2px 2px #000000;
+}
+.about {
+  background-color: gray;
+  height: 500px;
+  text-align: center;
+  color: white;
+  background-image: url("../assets/wall_background.jpg");
+  border: 1px solid #000000;
+  -webkit-box-shadow: 0px -4px 3px #000000;
+  -moz-box-shadow: 0px -4px 3px #000000;
+  box-shadow: 0px -4px 3px #000000;
+}
+.pad {
+  padding-top: 1px;
+}
+#goal {
+  font-size: 300%;
+  text-shadow: 2px 2px #000000;
+}
+#lightweight {}
+#lw-img {
+  max-width: 50px;
+  max-height: 50px;
+}
+#lw-text {
+  font-size: 220%;
+}
+#opensource {}
+#os-img {
+  max-width: 50px;
+  max-height: 50px;
+}
+#os-text {
+  font-size: 220%;
+}
+#crossplatform {}
+#windows {
+  max-width: 100px;
+  max-height: 100px;
+}
+#mac {
+  max-width: 100px;
+  max-height: 100px;
+}
+#linux {
+  max-width: 100px;
+  max-height: 100px;
+}
